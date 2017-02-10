@@ -28,9 +28,10 @@ AdvancedSteam is Code plugin to make you easy to implement steamstats and leader
 ##### Steam Achievement manual : https://goo.gl/0TCxYQ 
 
 # Demos 
-##### [![Steam Leaderboard and Stats](https://lh3.googleusercontent.com/xuoo40BlnSvDrCubmCBTbsHS0DR9gnQpNE-i4Pdd3LvY56CByuu4fvk8rt4ikSYKW6IponHFhN86BGM=w1658-h887)](https://www.youtube.com/watch?v=3NE9LhVD1kM) 
-##### [![Steam Achievements](https://lh5.googleusercontent.com/Eox2HJX8jLZVsqjm2tbL_R_pZRCX6WPfi2YtHCy0H4BTLrxq3xvIaDFfa6iOvE2iAu75nZmNpSE41DE=w1658-h887)](https://www.youtube.com/watch?v=CLzoVcSP7y8) 
+##### [![Steam Leaderboard and Stats](http://img.youtube.com/vi/3NE9LhVD1kM/0.jpg)](https://www.youtube.com/watch?v=3NE9LhVD1kM) 
+##### [![Steam Achievements](http://img.youtube.com/vi/CLzoVcSP7y8/0.jpg)](https://www.youtube.com/watch?v=CLzoVcSP7y8) 
 
 
 # Contact and Support
 https://forums.unrealengine.com/showthread.php?136370-WIP-AdvancedSteam-Plugin-Blueprint-support
+
