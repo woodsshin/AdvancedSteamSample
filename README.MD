@@ -29,7 +29,7 @@ AdvancedSteam is Code plugin to make you easy to implement steamstats and leader
 
 # Demos 
 Steam Leaderboard and Stats
-##### [![Steam Leaderboard and Stats](http://img.youtube.com/vi/3NE9LhVD1kM/0.jpg)](https://www.youtube.com/watch?v=3NE9LhVD1kM) 
+##### [![Steam Leaderboard and Stats](http://img.youtube.com/vi/CLzoVcSP7y8/0.jpg)](https://www.youtube.com/watch?v=CLzoVcSP7y8) 
 Steam Achievements
 ##### [![Steam Achievements](http://img.youtube.com/vi/CLzoVcSP7y8/0.jpg)](https://www.youtube.com/watch?v=CLzoVcSP7y8) 
 
