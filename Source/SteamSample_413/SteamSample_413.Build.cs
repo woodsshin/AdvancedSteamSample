@@ -4,8 +4,8 @@ using UnrealBuildTool;
 
 public class SteamSample_413 : ModuleRules
 {
-	public SteamSample_413(TargetInfo Target)
-	{
+	public SteamSample_413(ReadOnlyTargetRules Target) : base(Target)
+    {
 		PublicDependencyModuleNames.AddRange(new string[] {
             "Core",
             "CoreUObject",
