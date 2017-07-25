@@ -15,6 +15,10 @@
 	],
 	"Plugins": [
 		{
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0ab6f8e1e75e468594431d270c11e71f"
+		},
+		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		}
